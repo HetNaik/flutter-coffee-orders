@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625982670755",
+    "firebase_url": "https://het-s-brew-crew.firebaseio.com",
+    "project_id": "het-s-brew-crew",
+    "storage_bucket": "het-s-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625982670755:android:9c75d6615e58e0cf83fc16",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625982670755-9ghsca7urs69bj22i6ag8k9dqdnc8gme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQ8PCzqgI1zestjRfGfi7l-PAToWJa58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625982670755-9ghsca7urs69bj22i6ag8k9dqdnc8gme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
